@@ -10,6 +10,11 @@ A **complete AI operating system for small and local businesses** — combining 
 
 ---
 
+## 📢 LinkedIn Project Launch Showcase
+![LinkedIn Post Showcase Banner](./docs/images/linkedin_post_showcase.png)
+
+---
+
 ## 📸 Light Theme Interface Showcase
 
 ### 1. 💳 Smart POS Billing Register (Light Mode)
