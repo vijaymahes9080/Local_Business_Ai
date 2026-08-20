@@ -62,20 +62,24 @@ The business owner can ask naturally in **English**, **Tamil**, or **Hindi**:
 * 1-Click **Khata Credit Payment Reminders** with instant UPI payment links.
 * Automated **Inactive Customer Win-Back** broadcasts with discount coupons.
 
-### 5. 📣 AI Marketing Suite & Customer Segmentation
+### 5. 📕 Khata Credit Ledger & Recovery Suite
+* Tracks customer credit balances, debt aging analysis, and payment history.
+* Automated WhatsApp UPI payment link generator (`upi://pay?pa=store@upi&am=AMOUNT`).
+
+### 6. 📣 AI Marketing Suite & Customer Segmentation
 * Segments: VIP, Regular, Inactive (>60 days), Price-Sensitive.
 * AI Campaign Copywriter generating tailored WhatsApp, SMS, and Festival sale copy.
 
-### 6. 📊 Analytics & AI Narrative Insights
+### 7. 📊 Analytics & AI Narrative Insights
 * Executive KPIs (₹ Sales, Active Customers, AOV, Returning Customer Rate %).
 * **AI Plain-Language Explainer**: Narrative insights explaining *why* sales shifted instead of raw numbers.
 * Hourly peak footfall distribution charts.
 
-### 7. 📈 Sales & Demand Forecasting Visualizer
+### 8. 📈 Sales & Demand Forecasting Visualizer
 * Multi-horizon revenue predictions (7/30 days) with upper & lower confidence boundaries.
 * VIP customer churn risk detection index.
 
-### 8. 🤖 Autonomous AI Agent
+### 9. 🤖 Autonomous AI Agent
 * Transparent background execution loop: **Detect → Decide → Request Approval → Execute → Verify**.
 
 ---
@@ -111,7 +115,7 @@ Open [http://127.0.0.1:5173](http://127.0.0.1:5173) in your browser.
 
 ---
 
-## 📜 Author & License
+## 📜 License & Author
 
-* **Developer**: Vijay Mahes (Vijaypradhap2004@gmail.com)
-* **License**: MIT
+* **Author**: Vijay Mahes ([Vijaypradhap2004@gmail.com](mailto:Vijaypradhap2004@gmail.com))
+* **License**: MIT License — see the [LICENSE](LICENSE) file for details.
