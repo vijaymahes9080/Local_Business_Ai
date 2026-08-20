@@ -1,11 +1,39 @@
 # 🏪 Local Business AI — Autonomous AI Operating System for Small & Local Businesses
 
 ![Local Business AI](https://img.shields.io/badge/Local_Business_AI-v1.0.0-6366f1?style=for-the-badge&logo=react)
+![Theme](https://img.shields.io/badge/Theme-Vibrant_Light-4f46e5?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-10b981?style=for-the-badge)
 ![Build](https://img.shields.io/badge/Build-Passing-06b6d4?style=for-the-badge)
 ![Languages](https://img.shields.io/badge/Languages-English%20|%20Tamil%20|%20Hindi-f59e0b?style=for-the-badge)
 
 A **complete AI operating system for small and local businesses** — combining billing, inventory, customer communication, marketing, analytics, and AI automation in one unified platform.
+
+---
+
+## 📸 Light Theme Interface Showcase
+
+### 1. 💳 Smart POS Billing Register (Light Mode)
+![Smart POS Billing Register Light Mode](./docs/images/pos_billing_light.png)
+
+---
+
+### 2. 🎙️ Multilingual AI Voice Co-Pilot Assistant (Light Mode)
+![AI Voice Assistant Light Mode](./docs/images/ai_voice_assistant_light.png)
+
+---
+
+### 3. 📦 AI Inventory & Automated Stock PO Predictor (Light Mode)
+![AI Inventory & PO Predictor Light Mode](./docs/images/ai_inventory_po_light.png)
+
+---
+
+### 4. 💬 WhatsApp AI Business Chat Simulator (Light Mode)
+![WhatsApp AI Chat Simulator Light Mode](./docs/images/whatsapp_ai_chat_light.png)
+
+---
+
+### 5. 📊 Customer Analytics & Executive Insights (Light Mode)
+![Customer Analytics & Insights Light Mode](./docs/images/customer_analytics_light.png)
 
 ---
 
@@ -87,7 +115,7 @@ The business owner can ask naturally in **English**, **Tamil**, or **Hindi**:
 ## 🛠️ Technology Stack
 
 - **Frontend Framework**: React 18 + Vite
-- **Styling**: Glassmorphism Design System, HSL Color Tokens, Dark/Light Theme
+- **Styling**: Glassmorphism Design System, HSL Color Tokens, Light & Dark Themes
 - **Voice Intelligence**: Web Speech API (Speech Recognition + Speech Synthesis)
 - **Audio Feedback**: Web Audio API Sound Synthesizer (Cash Register, Scanner Beep)
 - **Icons**: Lucide-React

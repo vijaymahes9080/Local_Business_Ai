@@ -15,7 +15,7 @@ export const BusinessProvider = ({ children }) => {
   // Global States
   const [currentBusiness, setCurrentBusiness] = useState(BUSINESS_TYPES[0]);
   const [language, setLanguage] = useState('en'); // 'en' | 'ta' | 'hi'
-  const [theme, setTheme] = useState('dark');
+  const [theme, setTheme] = useState('light'); // 'light' | 'dark'
   
   const [products, setProducts] = useState(INITIAL_PRODUCTS);
   const [customers, setCustomers] = useState(INITIAL_CUSTOMERS);
