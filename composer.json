@@ -1,0 +1,12 @@
+{
+    "name": "vijaymahes/local-business-ai",
+    "description": "Local Business AI Application",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Vijay Mahes",
+            "email": "Vijaypradhap2004@gmail.com"
+        }
+    ],
+    "require": {}
+}
